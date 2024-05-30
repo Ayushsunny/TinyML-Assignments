@@ -12,7 +12,7 @@ In this assignment, we explore two neural network models to demonstrate the deve
 
 1. [Single-Layer Neural Network](https://github.com/Ayushsunny/TinyML-Assignments/tree/main/Single%20Layer%20Neural%20Network)
 
-## Assignment 2
+## Assignment 1
 
 ### Overview
 
