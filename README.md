@@ -10,8 +10,7 @@ In this assignment, we explore two neural network models to demonstrate the deve
 
 ### Files
 
-1. [Single-Layer Neural Network](./Single-Layer%20Neural%20Network.ipynb)
-2. [Fine-Tuned Single-Layer Neural Network](./Fine%20Tuned%20Single-Layer%20Neural%20Network.ipynb)
+1. [Single-Layer Neural Network](https://github.com/Ayushsunny/TinyML-Assignments/tree/main/Single%20Layer%20Neural%20Network)
 
 ## Assignment 2
 
@@ -21,4 +20,4 @@ In this assignment, we train a neural network on the Fashion MNIST dataset, whic
 
 ### File
 
-1. [Fashion MNIST Neural Network](./Fashion%20MNIST%20Neural%20Network.ipynb)
+1. [Fashion MNIST Dense Neural Network](https://github.com/Ayushsunny/TinyML-Assignments/tree/main/Dense%20Neural%20Network)
