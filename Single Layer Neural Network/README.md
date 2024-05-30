@@ -1,7 +1,5 @@
 #-----------------Assignment 1-----------------#
 
-
-### Question 1. 
 Implement a Regression using Single-Layer Neural Network. Take two set x and y and trained the model to find out the correct y=function of x. Already we discussed these in our previous lectures.
 
 
